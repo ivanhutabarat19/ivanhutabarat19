@@ -5,15 +5,8 @@
 
 ---
 
-
-## 🔥 Typing Animation  
+  
 ![Typing Animation](https://readme-typing-svg.herokuapp.com?color=%23ff5733&size=24&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Ivan+Hutabarat!;19+years+old+Tech+Enthusiast;Started+Programming+at+13;Geophysics+Student;WhatsApp+Bot+Developer;Always+Learning!)
-
----
-
-<p align="center">
-  <img src="https://i.imgur.com/zjhWISL.jpeg" width="850" alt="Ivan Hutabarat OS v5090-X™ Setup in White-Gold Bedroom" />
-</p>
 
 ---
 
@@ -29,19 +22,68 @@ A cinematic machine forged for AI, simulation, and artistic workflows — where 
 
 ---
 
+![Status](https://img.shields.io/badge/Build-Completed-brightgreen?style=for-the-badge&logo=github)
+![Version](https://img.shields.io/badge/Version-v2.0-blue?style=for-the-badge&logo=semantic-release)
+![Cooling](https://img.shields.io/badge/Cooling-Hybrid_Extreme-blue?style=for-the-badge&logo=cooler)
+![Storage](https://img.shields.io/badge/Storage-128TB_Total-orange?style=for-the-badge&logo=databricks)
+![RAM](https://img.shields.io/badge/RAM-256GB_DDR5_6000MHz-yellow?style=for-the-badge&logo=kingston)
+![NVMe](https://img.shields.io/badge/NVMe-16TB_Gen5-green?style=for-the-badge&logo=samsung)
+![SATA](https://img.shields.io/badge/SATA-56TB_SSD-lightgrey?style=for-the-badge&logo=seagate)
+![Fans](https://img.shields.io/badge/Fans-43_Active-lightblue?style=for-the-badge&logo=fan)
+![RGB](https://img.shields.io/badge/RGB-AuraSync_+_iCUE-pink?style=for-the-badge&logo=rgb)
+![Display](https://img.shields.io/badge/Display-4K_+_8K_+_12K-purple?style=for-the-badge&logo=samsung)
+![Ambient](https://img.shields.io/badge/Ambient-Galaxy_Drift_Logic-cyan?style=for-the-badge&logo=aurora)
+![Startup](https://img.shields.io/badge/Startup-Silent_Boot_Sequence-darkblue?style=for-the-badge&logo=powerbi)
+![Signature](https://img.shields.io/badge/Signature-TitanCore™_Identity-black?style=for-the-badge&logo=starship)
+
+---
+
+> “Immersive by Design. Built by Identity. Powered by Soul.”
+
+---
+
 ## 🧩 Core Hardware
 
 ![CPU](https://img.shields.io/badge/CPU-Ryzen_9_9950X3D-ED1C24?style=flat-square&logo=amd)
 ![GPU 1](https://img.shields.io/badge/GPU_1-ASUS_ROG_RTX_5090_OC-76B900?style=flat-square&logo=nvidia)
-![GPU 2](https://img.shields.io/badge/GPU_2-ASUS_ROG_RTX_4090_OC-00FFD1?style=flat-square&logo=nvidia)
+![GPU 2](https://img.shields.io/badge/GPU_2-ASUS_ROG_Strix_RTX_5090-76B900?style=flat-square&logo=nvidia)
 ![Motherboard](https://img.shields.io/badge/Motherboard-ASUS_ROG_X870E_Extreme-0052CC?style=flat-square&logo=asus)
 ![RAM](https://img.shields.io/badge/RAM-256GB_DDR5_6000MHz_RGB-8A2BE2?style=flat-square&logo=kingston)
 ![Storage](https://img.shields.io/badge/Storage-14TB_NVMe_%2B_56TB_SATA_SSD-0ABFBC?style=flat-square&logo=samsung)
 ![Expansion](https://img.shields.io/badge/NVMe_Card-ASUS_Hyper_M.2_x16_V2-FF6F00?style=flat-square&logo=asus)
 ![Case](https://img.shields.io/badge/Case-Corsair_9000D_Super_Tower_RGB-1B1F23?style=flat-square&logo=corsair)
-![CPU Cooler](https://img.shields.io/badge/CPU_Cooler-ROG_Ryujin_III_360_ARGB_LCD-FF003C?style=flat-square&logo=asus)
+![CPU Cooler](https://img.shields.io/badge/CPU_Cooler-ROG_Ryujin_IV_SLC_360_ARGB-FF003C?style=flat-square&logo=asus)
 ![Pump_Reservoir](https://img.shields.io/badge/Reservoir-Corsair_XD5_RGB_Pump_Combo-00BFFF?style=flat-square&logo=corsair)
 ![PSU](https://img.shields.io/badge/PSU-Super_Flower_Leadex_2000W_ATX_3.1-FFD700?style=flat-square&logo=supermicro)
+
+
+---
+## 🧠 System Memory (RAM)
+
+> **Total Memory:** 256GB DDR5 (Quad-Channel Configuration)
+
+![RAM Kit](https://img.shields.io/badge/Brand-Kingston_Fury_Beast_RGB-ED1C24?style=flat-square&logo=kingston)
+![RAM Capacity](https://img.shields.io/badge/Capacity-256GB_(4x64GB)-000000?style=flat-square&logo=ram)
+![RAM Speed](https://img.shields.io/badge/Speed-6000MT%2Fs_CL30-FF0000?style=flat-square&logo=amd)
+![Technology](https://img.shields.io/badge/Tech-AMD_EXPO_Certified-76B900?style=flat-square&logo=amd)
+
+---
+
+## 💾 Storage Architecture
+
+**⚡ NVMe Gen5 & Gen4 Array (Operating System & Hot Data)**
+![Gen5 Primary](https://img.shields.io/badge/NVMe_Gen5-2x_TeamGroup_T--FORCE_GE_PRO_4TB-FF4500?style=flat-square)
+![Gen4 Secondary](https://img.shields.io/badge/NVMe_Gen4-1x_Samsung_990_PRO_4TB-0052CC?style=flat-square&logo=samsung)
+![Gen4 Scratch](https://img.shields.io/badge/NVMe_Gen4-2x_Crucial_T500_4TB-000000?style=flat-square&logo=crucial)
+![Expansion](https://img.shields.io/badge/Expansion_Card-ASUS_Hyper_M.2_x16_Gen5-000000?style=flat-square&logo=asus)
+
+**📦 Mass Storage (Cold Data & Datasets)**
+![SATA SSD](https://img.shields.io/badge/SATA_SSD-7x_Samsung_870_QVO_8TB-0ABFBC?style=flat-square&logo=samsung)
+
+> **📊 Storage Summary:**
+> * **Speed Tier (NVMe):** 16TB Total (Read Speed up to 14.000 MB/s)
+> * **Capacity Tier (SATA):** 56TB Total
+> * **Total Chamber Capacity:** ~72TB Active (Expandable to 128TB+)
 
 ---
 
@@ -58,9 +100,82 @@ A cinematic machine forged for AI, simulation, and artistic workflows — where 
 
 ---
 
+## 🌪️ TITANCORE AERO-SYSTEMS (43 Active Units)
+
+> **"Silence is luxury. Performance is mandatory."**
+> A custom-engineered "Extreme Positive Pressure" airflow ecosystem within the **Corsair 9000D Super Tower**. Designed to tame the >1500W thermal output of Dual RTX 5090s & Ryzen 9 9950X3D.
+
+---
+
+### 📊 Aero-Acoustic Performance Metrics
+
+| Metric | Rating | Description |
+| :--- | :--- | :--- |
+| **Airflow Volume** | ![1200 CFM](https://img.shields.io/badge/Airflow->1200_CFM-00BFFF?style=flat-square&logo=wind) | Industrial-grade air displacement. |
+| **Static Pressure** | ![7.63mmH2O](https://img.shields.io/badge/Pressure-7.63_mmH₂O-FF4500?style=flat-square) | High-penetration force for thick radiators. |
+| **Efficiency** | ![+35%](https://img.shields.io/badge/Efficiency-+35%25_Push--Pull-32CD32?style=flat-square) | Thermal dissipation gain vs. standard setup. |
+| **Acoustics (Idle)** | ![25dB](https://img.shields.io/badge/Noise_Idle-25_dB(A)-brightgreen?style=flat-square&logo=quiet) | Whisper quiet (0 RPM Mode Active). |
+| **Acoustics (Load)** | ![52dB](https://img.shields.io/badge/Noise_Load-52_dB(A)-orange?style=flat-square&logo=soundcharts) | Audible airflow (Low-Hum), motor noise dampened. |
+
+---
+
+### 1. ❄️ GPU Cooling Engine (Top Chamber)
+*Targeting the combined thermal load of **Dual ASUS ROG Strix RTX 5090** via the top custom loop.*
+
+![Radiator Fans](https://img.shields.io/badge/Unit-12x_Noctua_NF--A14_iPPC_3000-000000?style=flat-square&logo=noctua&logoColor=white)
+![Config](https://img.shields.io/badge/Config-Tri--Layer_Push--Pull--Pull-FF0000?style=flat-square)
+![Location](https://img.shields.io/badge/Location-Top_Mount_420mm-808080?style=flat-square)
+
+* **The Logic:** Utilizing a "Sandwich" configuration on the thick Corsair XR7 radiator.
+* **Performance:** The tri-layer setup ensures zero airflow resistance, instantly ejecting 1000W+ of heat from the chassis.
+
+### 2. 🔥 CPU Thermal Exhaust (Side Chamber)
+*Dedicated cooling for the **AMD Ryzen 9 9950X3D**.*
+
+![AIO Fans](https://img.shields.io/badge/Unit-3x_Noctua_NF--F12_iPPC_2000-000000?style=flat-square&logo=noctua&logoColor=white)
+![Cooler](https://img.shields.io/badge/Cooler-ROG_Ryujin_IV_SLC_360-FF003C?style=flat-square&logo=asus)
+![Location](https://img.shields.io/badge/Location-Side_Exhaust-808080?style=flat-square)
+
+* **The Logic:** Independent loop. CPU heat is vented out the side, preventing it from soaking the GPU radiator above.
+
+---
+
+### 3. 🌬️ Massive Intake Array (The Wind Tunnel)
+
+#### 🔵 Front Intake Wall
+*Primary cold air supply.*
+![Front Fans](https://img.shields.io/badge/Unit-16x_Lian_Li_SL--INF_140-00BFFF?style=flat-square&logo=lianli)
+![Config](https://img.shields.io/badge/Config-Push--Pull_Wall-00008B?style=flat-square)
+
+* **Placement:** 8 fans external + 8 fans internal.
+* **Effect:** Creates a massive wall of moving air that reaches the motherboard VRMs and RAM, eliminating dead zones.
+
+#### 🔵 Bottom Intake Jet
+*Direct feed for Dual RTX 5090s.*
+![Bottom Fans](https://img.shields.io/badge/Unit-8x_Phanteks_T30_120mm-555555?style=flat-square&logo=phanteks&logoColor=white)
+![Performance](https://img.shields.io/badge/Spec-30mm_Thick_Blades-FFD700?style=flat-square)
+
+* **Placement:** Bottom floor of the Corsair 9000D.
+* **Effect:** Shoots a vertical column of cold air directly into the GPU intakes, dropping GPU temperatures by approx **5-8°C**.
+
+---
+
+### 4. 🚀 Exhaust Assist & Turbulence Control
+*Removing residual heat pockets.*
+
+![Rear Fans](https://img.shields.io/badge/Rear-2x_Noctua_NF--A12x25-8B4513?style=flat-square&logo=noctua)
+![Top Assist](https://img.shields.io/badge/Top_Assist-2x_Lian_Li_SL--INF_120-00BFFF?style=flat-square&logo=lianli)
+
+> **⚙️ System Control:** Managed via **Corsair iCUE Commander Pro XT**.
+> * **< 40°C:** Silent Mode (Fans @ 30%)
+> * **> 70°C:** Turbo Mode (Intake @ 100%, Exhaust @ 80%)
+
+
+---
+
 ## 🖥️ Display & Peripherals
 
-![Monitor](https://img.shields.io/badge/Monitor-ASUS_PG32UQX_4K_144Hz_HDR-FF3366?style=flat-square&logo=asus)
+![Monitor](https://img.shields.io/badge/Monitor-Alienware_32_4K_QD--OLED_(AW3225QF)-000000?style=flat-square&logo=dell)
 ![Keyboard](https://img.shields.io/badge/Keyboard-GMMK_Pro_Custom_RGB-00BFFF?style=flat-square&logo=glorious)
 ![Mouse](https://img.shields.io/badge/Mouse-Logitech_G_Pro_X_Superlight_2-000000?style=flat-square&logo=logitech)
 ![Mousepad](https://img.shields.io/badge/Mousepad-XL_ARGB_Gradient_Surface-FF69B4?style=flat-square)
@@ -68,9 +183,9 @@ A cinematic machine forged for AI, simulation, and artistic workflows — where 
 ![Headset](https://img.shields.io/badge/Headset-Sennheiser_HD660S2_%2B_DAC-00FF00?style=flat-square&logo=sennheiser)
 ![Speakers](https://img.shields.io/badge/Speakers-Edifier_S2000MKIII_RGB_Studio-FF8800?style=flat-square&logo=edifier)
 
+
 ---
-![TV Display](https://img.shields.io/badge/TV-Samsung_QN900D_8K_MiniLED-0088CC?style=flat-square&logo=samsung)
-![Projector](https://img.shields.io/badge/Projector-Sony_VPL_XW7000ES_4K_HDR_Laser-000000?style=flat-square&logo=sony)
+
 ![Visual Sync](https://img.shields.io/badge/Display_Mode-TitanAwaken_%2F_Starfield_Drift-9370DB?style=flat-square&logo=custom)
 ![Content Support](https://img.shields.io/badge/Media_Support-12K_Playback_%2B_HDR10%2B_Atmos-F08080?style=flat-square&logo=dolby)
 ![Boot Projection](https://img.shields.io/badge/Startup_Splash-Galactic_Crest_%2F_Visual_Burst-E9967A?style=flat-square&logo=custom)
@@ -90,7 +205,10 @@ A cinematic machine forged for AI, simulation, and artistic workflows — where 
 ## ⚡ Power & Cabling
 
 ![UPS](https://img.shields.io/badge/UPS-CyberPower_CP1500PFCLCD_1500VA-FF0000?style=flat-square&logo=cyberpower)
+![Battery Pack](https://img.shields.io/badge/Battery_Pack-APC_SRT192BP2_Extended_Runtime-brightgreen?style=flat-square&logo=schneiderelectric)
 ![Cabling](https://img.shields.io/badge/Cabling-Braided_Carbon_Sleeving_Modular-228B22?style=flat-square)
+![Cable Management](https://img.shields.io/badge/Cable_Management-Magnetic_Hide_System-808080?style=flat-square)
+
 ![Dust Filter](https://img.shields.io/badge/Dust_Filter-Magnetic_Mesh_%2B_Ring_Guards-708090?style=flat-square)
 ![Blower](https://img.shields.io/badge/Dust_Blower-X3Pro_Turbo_Jet_Cleaner-FF4500?style=flat-square)
 ![Power Strip](https://img.shields.io/badge/Power_Strip-RackMounted_EMI_Shielded-DAA520?style=flat-square)
@@ -140,20 +258,6 @@ _A daily injection of code, combat, and cinematic energy — electrified in lumi
 ![Netflix](https://img.shields.io/badge/NΞTFL!X-e50914?logo=netflix&style=for-the-badge&labelColor=111111)
 ![YouTube](https://img.shields.io/badge/Y⚡️UTUBE-FF0000?logo=youtube&style=for-the-badge&labelColor=0d0d0d)
 ![TikTok](https://img.shields.io/badge/⸸IK⸸☯K-000000?logo=tiktok&style=for-the-badge&labelColor=1a1a1a)
-
----
-
-🧠 SYSTEM LOG :: `IP4N-HUB`  
-🔧 STATUS :: `Online`  
-🛠️ MODULES LOADED :: `Code | Game | Stream`  
-📡 SIGNAL STRENGTH :: `∞`  
-🎮 PROFILE SYNCED :: `Visual Protocol Ready`
-
-_// Initializing system..._  
-`Loading Ipan Protocol... ✅`  
-`Injecting caffeine... ⚡`  
-`Running GitOps Cinematic Shell... 🌀`  
-`Status: ENGAGED.` 🟢
 
 ---
 
@@ -213,17 +317,14 @@ Imagination is my compass. Code is my language. Creativity is my fuel.
 
 ## 📊 GitHub Stats & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ivanhutabarat&show_icons=true&theme=radical" alt="Ivanhutabarat's GitHub Stats"/>
-</p>
+![Trophies](https://github-profile-trophy.vercel.app/?username=Ivanhutabarat&theme=radical&no-frame=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivanhutabarat&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
- 
- [![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=red) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ivanhutabarat&show_icons=true&theme=radical)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ivanhutabarat&theme=radical)](https://github.com/Ivanhutabarat)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivanhutabarat&layout=compact&theme=radical)
+
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=red) 
+
 
 ---
 
