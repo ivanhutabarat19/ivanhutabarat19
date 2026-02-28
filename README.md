@@ -1,3 +1,8 @@
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/snake?username=Ivanhutabarat&theme=radical&color_snake=orange" alt="Snake Animation" />
+</p>
+
+
 # 👋 Hi, I'm Ivan Hutabarat!  
 <img src="https://i.imgur.com/gOUibWg.gif" alt="Hello" width="400"/>
 
